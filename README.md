@@ -11,7 +11,7 @@ The Newsletter Subscriptions plugin allows you to manage and view newsletter sub
 
 ## Installation
 
-1. Download the plugin ZIP file from the [releases](https://github.com/dimatkach11/newsletter-subscriptions/releases) page.
+1. Download the plugin ZIP file from [here](https://github.com/dimatkach11/newsletter-subscriptions).
 2. Log in to your WordPress admin panel.
 3. Go to the **Plugins** section and click on **Add New**.
 4. Click on the **Upload Plugin** button and select the downloaded ZIP file.
@@ -25,8 +25,3 @@ The Newsletter Subscriptions plugin allows you to manage and view newsletter sub
 4. Click on the **Filter** button to apply the filters and view the subscription entries.
 5. You can click on the **Export** button to export the displayed subscription data to a CSV file.
 6. To delete a subscription entry, click on the **Delete** link next to the entry.
-
-## Shortcodes
-
-You can use the following shortcode to display the subscription form on a post or page:
-
